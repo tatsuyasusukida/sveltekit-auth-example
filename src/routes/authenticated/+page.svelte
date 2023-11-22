@@ -1,0 +1,1 @@
+<h1>This page is for authenticated users only</h1>
